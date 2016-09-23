@@ -34,7 +34,7 @@ To ```apache2ctl restart```
 ## Make a Pull Request
 Now we want to get our changes accepted upstream so we can get this change into production. We will use a series of git commands to check in our change and submit a pull request.
 
-### Git stauts
+### Git status
 Lets check the changes that git is aware of.
 
 ```bash
